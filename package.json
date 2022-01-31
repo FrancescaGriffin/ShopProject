@@ -1,0 +1,19 @@
+{
+  "name": "shopproject",
+  "version": "1.0.0",
+  "description": "\"shop project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancescaGriffin/ShopProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancescaGriffin/ShopProject/issues"
+  },
+  "homepage": "https://github.com/FrancescaGriffin/ShopProject#readme"
+}
