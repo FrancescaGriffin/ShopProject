@@ -4,7 +4,7 @@
   "description": "\"shop project\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/FrancescaGriffin/ShopProject/issues"
   },
-  "homepage": "https://github.com/FrancescaGriffin/ShopProject#readme"
+  "homepage": "https://github.com/FrancescaGriffin/ShopProject#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^15.0.0",
+    "express": "^4.17.2",
+    "pg": "^8.7.1",
+    "pg-format": "^1.0.4"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
 }
